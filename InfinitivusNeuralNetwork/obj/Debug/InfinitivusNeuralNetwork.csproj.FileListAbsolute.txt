@@ -1,0 +1,17 @@
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\SimpleNeuralNetwork.dll.config
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\SimpleNeuralNetwork.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\SimpleNeuralNetwork.pdb
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\GenericDispatcher.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Google.Apis.Core.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Google.Apis.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Google.Apis.pdb
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Google.Apis.xml
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Google.Apis.Core.pdb
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Google.Apis.Core.xml
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\obj\Debug\InfinitivusNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\obj\Debug\InfinitivusNeuralNetwork.csproj.CopyComplete
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\obj\Debug\SimpleNeuralNetwork.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork\obj\Debug\SimpleNeuralNetwork.pdb
