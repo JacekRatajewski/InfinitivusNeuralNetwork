@@ -1,0 +1,14 @@
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\obj\Debug\InfinitivusNeuralNetwork.Console.csprojAssemblyReference.cache
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\obj\Debug\InfinitivusNeuralNetwork.Console.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\obj\Debug\SimpleNeuralNetwork.Console.exe
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\obj\Debug\SimpleNeuralNetwork.Console.pdb
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\SimpleNeuralNetwork.Console.exe.config
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\SimpleNeuralNetwork.Console.exe
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\SimpleNeuralNetwork.Console.pdb
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\GenericDispatcher.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\SimpleNeuralNetwork.dll
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\SimpleNeuralNetwork.pdb
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\SimpleNeuralNetwork.dll.config
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jrat01\Desktop\SideProj\SNN\InfinitivusNeuralNetwork\InfinitivusNeuralNetwork.Console\obj\Debug\InfinitivusNeuralNetwork.Console.csproj.CopyComplete
